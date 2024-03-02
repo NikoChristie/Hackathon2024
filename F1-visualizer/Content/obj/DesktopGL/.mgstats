@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/user/Documents/School/W24/devhacks/Fork-It-Repository/F1-visualizer/Content/1x1.png","/home/user/Documents/School/W24/devhacks/Fork-It-Repository/F1-visualizer/Content/bin/DesktopGL/1x1.xnb","TextureProcessor","Texture2DContent",119,89,0.0862394
+"/home/user/Documents/School/W24/devhacks/Fork-It-Repository/F1-visualizer/Content/button.png","/home/user/Documents/School/W24/devhacks/Fork-It-Repository/F1-visualizer/Content/bin/DesktopGL/button.xnb","TextureProcessor","Texture2DContent",1665,19929,0.0022083
